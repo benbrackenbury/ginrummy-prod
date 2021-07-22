@@ -5,7 +5,9 @@ Developed by Ben Brackenbury & Sonny Ash for Durham University
 Link above provides access to a working demo of the application.\
 Note: The link to the survey will not work, and the demo will not send any chat data.
 
-## [SProject source code](https://github.com/benbrackenbury/Gin-Rummy)
+## [Project source code](https://github.com/benbrackenbury/Gin-Rummy)
+The source code is used to build this project.\
+Build & run instructions are provided in the source repo's [README file](https://github.com/benbrackenbury/Gin-Rummy/blob/master/README.md)
 
 ## Deployment
 This application is a standard HTML web page, so can be run from any web server.
