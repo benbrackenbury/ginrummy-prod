@@ -1,7 +1,7 @@
 # Gin Rummy
 Developed by Ben Brackenbury & Sonny Ash for Durham University
 
-## Demo
+## [Demo](https://benbrackenbury.github.io/ginrummy-prod/)
 Access a full demo of the application [here](https://benbrackenbury.github.io/ginrummy-prod/).\
 Note: The link to the survey will not work, and the demo will not send any chat data.
 
