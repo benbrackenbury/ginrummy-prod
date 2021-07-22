@@ -15,8 +15,7 @@ The default values are as follows, and need to be updated to point to the necess
 }
 ```
 
-
-
+### Git
 It is also recommended to remove .git files
 
 `rm -rf .git .git*`
