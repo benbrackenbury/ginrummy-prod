@@ -2,7 +2,7 @@
 Developed by Ben Brackenbury & Sonny Ash for Durham University
 
 ## [Demo](https://benbrackenbury.github.io/ginrummy-prod/)
-Access a full demo of the application [here](https://benbrackenbury.github.io/ginrummy-prod/).\
+Link above provides access to a working demo of the application.\
 Note: The link to the survey will not work, and the demo will not send any chat data.
 
 ## Deployment
