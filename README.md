@@ -19,4 +19,4 @@ The default values are as follows, and need to be updated to point to the necess
 
 It is also recommended to remove .git files
 
-`rm ./*.git`
+`rm -rf .git .git*`
